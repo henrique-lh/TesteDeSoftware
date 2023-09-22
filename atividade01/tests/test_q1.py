@@ -1,5 +1,5 @@
 import unittest
-from classes.q1 import Bola
+from atividade01.classes.q1 import Bola
 
 
 class TestQuestion1(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from classes.q3 import Triangulo
+from atividade01.classes.q3 import Triangulo
 
 
 class TestTriangulo(unittest.TestCase):
